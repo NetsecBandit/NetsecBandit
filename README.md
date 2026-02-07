@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Saim Raza
 
-<!--
-**NetsecBandit/NetsecBandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I learn by **building projects, breaking systems, and documenting everything**.
+
+---
+
+## 🛠️ Skills
+- Penetration Testing
+- Web Application Security
+- Linux (Ubuntu, Kali) & Bash  
+- Git & GitHub Actions (CI/CD)
+- Backend Development
+  
+---
+
+## 📂 What's Here
+- Security-focused automation  
+- Clear documentation & labs
+
+---
+
+⭐ Learning in public. Building with purpose.
+
+
+## 📫 Let's Connect
+- 💼 https://www.linkedin.com/in/rsaimraza/
+- 🐦 https://x.com/SaimRaza_
+- 📧 Email: razaranasaim@gmail.com
