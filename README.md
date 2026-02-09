@@ -29,5 +29,4 @@ I learn by **building projects, breaking systems, and documenting everything**.
 
 ## 📫 Let's Connect
 - 💼 https://www.linkedin.com/in/rsaimraza/
-- 🐦 https://x.com/SaimRaza__
 - 📧 Email: razaranasaim@gmail.com
