@@ -1,32 +1,24 @@
-# 👋 Hi, I'm Saim Raza
+# About
+Learn. Hack. Document. Repeat. Updated as the grind continues
 
-🔐 Cybersecurity enthusiast
-
----
-
-## 🧠 About Me
-I learn by **building projects, breaking systems, and documenting everything**.
+Offensive Security Researcher by day, digital locksmith by night. I’m Netsec—your local IT specialist who balances a deep obsession with machine exploitation with a habit of documenting the beautiful chaos of the process.
 
 ---
 
-## 🛠️ Skills
-- Penetration Testing
-- Web Application Security
-- Linux (Ubuntu, Kali) & Bash  
-- Git & GitHub Actions (CI/CD)
-- Backend Development
+## What To Expect Here
+This is more than a repository; it’s a transparent look into my offensive security process. Each entry focuses on the underlying principles of the breach rather than just the execution. The goal isn't to provide a cheat sheet, but to bridge the gap between running a command and mastering the machine.
+
+---
+
+## Certifications
+- CJCA - Certified Junior Cybersecurity Associate
+- OSCC - Offensive Security Cyber Core
+- CISCO Certified Ethical Hacker
+- Google Cybersecurity Specialist
   
 ---
 
-## 📂 What's Here
-- Security-focused automation  
-- Clear documentation & labs
-
----
-
-⭐ Learning in public. Building with purpose.
-
-
 ## 📫 Let's Connect
-- 💼 https://www.linkedin.com/in/rsaimraza/
-- 📧 Email: razaranasaim@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rsaimraza/
+- Email: razaranasaim@gmail.com
+- X: https://x.com/SaimRaza_
