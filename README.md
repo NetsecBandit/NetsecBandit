@@ -21,4 +21,5 @@ This is more than a repository; it’s a transparent look into my offensive secu
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/rsaimraza/
 - Email: razaranasaim@gmail.com
-- X: https://x.com/SaimRaza_
+- X: https://x.com/SaimRaza_/
+
