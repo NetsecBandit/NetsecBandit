@@ -22,4 +22,5 @@ This is more than a repository; it’s a transparent look into my offensive secu
 - LinkedIn: https://www.linkedin.com/in/rsaimraza/
 - Email: razaranasaim@gmail.com
 - X: https://x.com/SaimRaza_/
+- Hack The Box: [HTB Profile](https://profile.hackthebox.com/profile/019c71c0-cdb1-7393-aadc-dd9707d1b5d3)
 
