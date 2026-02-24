@@ -11,10 +11,10 @@ This is more than a repository; it’s a transparent look into my offensive secu
 ---
 
 ## Certifications
-- CJCA - Certified Junior Cybersecurity Associate
+- HTB CWES - Certified Web Exploitation Specialist
+- HTB CJCA - Certified Junior Cybersecurity Associate
 - OSCC - Offensive Security Cyber Core
 - CISCO Certified Ethical Hacker
-- Google Cybersecurity Specialist
   
 ---
 
