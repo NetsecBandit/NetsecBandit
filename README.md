@@ -11,10 +11,11 @@ This is more than a repository; it’s a transparent look into my offensive secu
 ---
 
 ## Certifications
+- HTB CPTS - Certified Penetration Testing Specialist
 - HTB CWES - Certified Web Exploitation Specialist
 - HTB CJCA - Certified Junior Cybersecurity Associate
-- OSCC - Offensive Security Cyber Core
-- CISCO Certified Ethical Hacker
+- Offsec OSCC - Offensive Security Cyber Core
+- CISCO Networking Specialist
   
 ---
 
